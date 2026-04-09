@@ -44,6 +44,11 @@ I sit at the intersection of **genomics, immunology, and software engineering** 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+**AI & Agentic**  
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Integration-412991?style=flat&logo=openai&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+
 ---
 
 ## 🌟 Highlighted Public Work
@@ -91,13 +96,30 @@ As Director of Bioinformatics at Sonoma Bio (CAR-T cell therapy), I lead the des
 |---|---|---|
 | CMC Data Platform | Full-stack manufacturing analytics platform with ETL pipelines, data schema (Prisma/DBML), SDK, and a web frontend for CAR-T CMC QC reporting | Python · Jupyter · TypeScript |
 | Clinical LIMS | Sample tracking system (v0.15.2, 17 releases) with AI module, shopping cart logic, Dockerized microservices | TypeScript · Docker · AI |
-| Clinical Data Pipelines | Dagster + DBT orchestrated pipelines for clinical trial data (SBT-7101 program); R and Python variants | Python · R · Dagster · dbt |
+| Clinical Data Pipelines | Dagster + DBT orchestrated pipelines for clinical trial data; R and Python variants | Python · R · Dagster · dbt |
 | Patient Safety Monitor | R Shiny app for real-time safety signal monitoring using raw EDC and ADAM datasets | R · Shiny |
 | Internal Datahub | Company-wide data sharing, query, and visualization portal with Nextflow NGS pipelines and reproducible dataset registry | HTML · CSS · Nextflow · Shell |
 | Translational Omics | scRNA-seq + CAR construct integration pipelines, Treg fingerprinting, casebook analytical reports | R · Jupyter · Shell |
-| Cloud Bioinformatics | AWS-based bioinformatics analysis environment; DocuSign data extraction automation | Python · Jupyter · AWS |
+| Cloud Bioinformatics | AWS-based bioinformatics analysis environment; document data extraction automation | Python · Jupyter · AWS |
 
 > 🔒 All repositories listed above are private. Details available upon request for appropriate audiences.
+
+---
+
+## 🤖 Side Projects @ LolipopAI
+
+Outside of my main role, I run **LolipopAI** — a personal AI tooling lab where I build agentic productivity systems powered by Claude AI, TypeScript, and Obsidian. These projects explore the frontier of AI-assisted personal and professional workflows.
+
+| Project | Description | Stack |
+|---|---|---|
+| Job Applier Skill Suite | Agentic Claude Code skill system that transforms a Markdown CV into tailored resume PDFs, cover letters, JD match analysis, interview prep, and interview recaps — fully automated | Shell · Claude AI · MIT |
+| Job Seeker Copilot | TypeScript web UI for the job applier agent — full-stack job application management platform with end-to-end workflow | TypeScript |
+| AI-Powered Second Brain | Obsidian-based Personal Cognitive Operating System: AI-collaborative knowledge management, self-growth workflows, and Cursor rules engine. Published in EN & CN editions | TypeScript · Python · Obsidian · MIT |
+| Journal-to-Graph | Python pipeline that parses personal journal entries and converts them into a knowledge graph for pattern discovery | Python |
+| Bell2Bus | JavaScript utility app for personal logistics automation | JavaScript |
+| Kids Learning Game | JavaScript interactive educational game | JavaScript |
+
+> These projects are my personal R&D space for AI-native tooling — where I dogfood the same agentic and LLM techniques I apply professionally.
 
 ---
 
