@@ -33,12 +33,16 @@ I sit at the intersection of **genomics, immunology, and software engineering** 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA4A?style=flat&logo=nextflow&logoColor=white)
 
 **Data Engineering & Web**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=flat&logo=dagster&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -77,9 +81,29 @@ Python microservice for LLM-assisted scientific research workflows — bridging 
 
 ---
 
-## 🔒 Private Research (Highlights)
+## 🏢 Industry Work @ Sonoma Biotherapeutics
 
-> I maintain ~40 private repositories spanning cell therapy analytics, multi-omics clinical projects, AI-assisted tooling, and systems biology manuscripts. Details available on request.
+As Director of Bioinformatics at Sonoma Bio (CAR-T cell therapy), I lead the design and development of the company’s core data infrastructure and analytical systems. My work spans the full stack — from raw NGS data to clinical reporting dashboards — across 14+ internal repositories.
+
+**Key systems I built and maintain (generalized for confidentiality):**
+
+| System | Description | Stack |
+|---|---|---|
+| CMC Data Platform | Full-stack manufacturing analytics platform with ETL pipelines, data schema (Prisma/DBML), SDK, and a web frontend for CAR-T CMC QC reporting | Python · Jupyter · TypeScript |
+| Clinical LIMS | Sample tracking system (v0.15.2, 17 releases) with AI module, shopping cart logic, Dockerized microservices | TypeScript · Docker · AI |
+| Clinical Data Pipelines | Dagster + DBT orchestrated pipelines for clinical trial data (SBT-7101 program); R and Python variants | Python · R · Dagster · dbt |
+| Patient Safety Monitor | R Shiny app for real-time safety signal monitoring using raw EDC and ADAM datasets | R · Shiny |
+| Internal Datahub | Company-wide data sharing, query, and visualization portal with Nextflow NGS pipelines and reproducible dataset registry | HTML · CSS · Nextflow · Shell |
+| Translational Omics | scRNA-seq + CAR construct integration pipelines, Treg fingerprinting, casebook analytical reports | R · Jupyter · Shell |
+| Cloud Bioinformatics | AWS-based bioinformatics analysis environment; DocuSign data extraction automation | Python · Jupyter · AWS |
+
+> 🔒 All repositories listed above are private. Details available upon request for appropriate audiences.
+
+---
+
+## 🔒 Personal Private Research (Highlights)
+
+> I maintain ~40 additional private repositories spanning personal multi-omics clinical projects, AI-assisted LLM tooling, and systems biology manuscripts. Details available on request.
 
 ---
 
