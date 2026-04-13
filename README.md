@@ -83,6 +83,15 @@ Python microservice bridging LLMs and biomedical research workflows.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🤖 <a href="https://github.com/biomystery/claude-skills">claude-skills</a>
+Personal Claude AI skills and prompt engineering collection.
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
