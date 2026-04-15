@@ -7,6 +7,7 @@
 *Building the data infrastructure that turns cells into cures.*
 
 [![GitHub followers](https://img.shields.io/github/followers/biomystery?style=social)](https://github.com/biomystery)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biomystery)
 ![Profile views](https://komarev.com/ghpvc/?username=biomystery&color=blue)
 
 </div>
