@@ -16,7 +16,7 @@
 
 ## 🧬 About Me
 
-Computational biologist and bioinformatics leader with **10+ years** spanning genomics, epigenomics, single-cell multi-omics, and therapeutic data science. I build the pipelines, platforms, and AI-powered tools that make biological data reproducible and actionable — from academic research to clinical CAR-T development.
+Computational biologist and bioinformatics leader with **15+ years** spanning genomics, epigenomics, single-cell multi-omics, and therapeutic data science. I build the pipelines, platforms, and AI-powered tools that make biological data reproducible and actionable — from academic research to clinical CAR-T development.
 
 ```
 🔭 Current focus  →  CAR-T manufacturing QC | Multi-omics | LLM tooling
