@@ -59,8 +59,8 @@ Computational biologist and bioinformatics leader with **15+ years** spanning ge
 <tr>
 <td width="50%">
 
-### 🔬 <a href="https://github.com/biomystery/atacCNV">atacCNV</a>
-CNV calling from bulk ATAC-seq data in R.
+### 🤖 <a href="https://github.com/biomystery/claude-skills">claude-skills</a>
+Personal Claude AI skills and prompt engineering collection.
 
 </td>
 <td width="50%">
@@ -87,8 +87,8 @@ Python microservice bridging LLMs and biomedical research workflows.
 <tr>
 <td width="50%">
 
-### 🤖 <a href="https://github.com/biomystery/claude-skills">claude-skills</a>
-Personal Claude AI skills and prompt engineering collection.
+### 🔬 <a href="https://github.com/biomystery/atacCNV">atacCNV</a>
+CNV calling from bulk ATAC-seq data in R.
 
 </td>
 <td width="50%"></td>
