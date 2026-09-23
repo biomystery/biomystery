@@ -1,61 +1,151 @@
-# Hi, I'm Frank (Zhang Cheng)
+<div align="center">
+
+# 👋 Hi, I'm Frank (Zhang Cheng)
 
 ### Director of Data Science · Computational Biology · Scientific Software
 
-I lead cross-functional data science work across biotech R&D, connecting biological questions with actionable analyses and usable systems.
+*Connecting biological questions with actionable analyses and usable systems.*
 
-My background spans **15+ years in computational biology, genomics, and multi-omics**. I combine scientific depth with hands-on software development, from reproducible analysis workflows to data platforms supporting discovery, translational research, and manufacturing.
+📍 San Diego, CA 🌊
 
-Here I share selected tools for scientific computing, knowledge management, and AI-assisted workflows.
+[![GitHub followers](https://img.shields.io/github/followers/biomystery?style=social)](https://github.com/biomystery)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biomystery/)
+![Profile views](https://komarev.com/ghpvc/?username=biomystery&color=blue)
 
-San Diego, CA · [LinkedIn](https://www.linkedin.com/in/biomystery/)
+</div>
 
-## Selected public projects
+---
 
-### [wiki-hosting-project](https://github.com/biomystery/wiki-hosting-project) — Knowledge vault to searchable website
+## 🧬 About Me
 
-Makes Obsidian notes accessible through a static website, with wikilinks, aliases, backlinks, and full-text search. Built with Python, MkDocs, Docker, and nginx.
+I'm a computational biologist and data science leader with **15+ years** spanning genomics, epigenomics, single-cell multi-omics, and therapeutic data science. I combine scientific depth with hands-on software development, working across teams to turn complex questions into analyses and systems people can use.
 
-**Explore:** The repository includes a synthetic sample vault, Docker quickstart, and link-resolver tests.
+```text
+🔭 Working on    → Scientific data platforms · Multi-omics · CAR-Treg cell therapy
+🛠️ Building      → Reproducible workflows · Knowledge tools · AI-assisted automation
+💬 Ask me about  → Computational biology · Cross-functional data science · Scientific software
+```
 
-### [claude-skills](https://github.com/biomystery/claude-skills) — Reusable AI-assisted workflows
+---
 
-Captures repeatable tasks as documented agent skills, including data dictionaries, document conversion, and knowledge-base maintenance.
+## 🌟 Highlighted Public Work
 
-**Explore:** Start with [data-dictionary](https://github.com/biomystery/claude-skills/tree/main/data-dictionary), which generates Markdown documentation from a Prisma schema and SQLite database.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [RNA-seq-snakemake-pipeline](https://github.com/biomystery/RNA-seq-snakemake-pipeline) — A minimal RNA-seq workflow
+### 📚 <a href="https://github.com/biomystery/wiki-hosting-project">wiki-hosting-project</a>
 
-Organizes RNA-seq processing with Snakemake and Kallisto, including sample configuration from FASTQ directories.
+Turn an Obsidian vault into a **searchable static website**, with wikilinks, aliases, and backlinks.
 
-**Explore:** The README includes sample layout, dry-run instructions, and a workflow diagram.
+🐍 Python · MkDocs · Docker · nginx
 
-### [atacCNV](https://github.com/biomystery/atacCNV) — Copy-number analysis from ATAC-seq
+**Inside:** sample vault, Docker quickstart, and link-resolver tests.
 
-Uses R and shell tools to process coverage tracks and call copy-number variation from ATAC-seq data.
+</td>
+<td width="50%" valign="top">
 
-**Explore:** The documented workflow covers read filtering, coverage smoothing, CNV regions, and segment plots.
+### 🤖 <a href="https://github.com/biomystery/claude-skills">claude-skills</a>
 
-## Industry & scientific background
+Reusable agent skills for **data documentation, document conversion, and knowledge management**.
 
-At **Sonoma Biotherapeutics**, I work as **Director of Data Science** across scientific and operational questions in CAR-Treg cell therapy. My work includes:
+🧠 Agent workflows · Markdown · Obsidian
 
-- Integrating data across functions into a manufacturing data portal to support investigation and analysis.
-- Developing multi-omics workflows that connect biological measurements with interpretable outputs.
-- Contributing to efficacy-related and biomarker analyses in collaboration with scientific colleagues.
+**Start here:** <a href="https://github.com/biomystery/claude-skills/tree/main/data-dictionary">data-dictionary</a> — Prisma + SQLite → Markdown documentation.
 
-Previously, at **Illumina**, I led a team developing NGS analysis applications. At the **Bing Ren lab, UC San Diego (2017–2020)**, I contributed to NGS infrastructure and analysis workflows for epigenomics and gene regulation. Public lab repositories are available at [epigen-UCSD](https://github.com/epigen-UCSD).
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-My scientific background includes **25+ peer-reviewed publications**, alongside presentations on cell therapy and multi-omics.
+### 🧪 <a href="https://github.com/biomystery/RNA-seq-snakemake-pipeline">RNA-seq-snakemake-pipeline</a>
 
-## Technical toolkit
+A **minimal RNA-seq workflow** with sample configuration from FASTQ directories.
 
-- **Scientific analysis:** Python, R, single-cell multi-omics, Nextflow, Snakemake
-- **Data platforms:** SQL, TypeScript, React/Next.js, FastAPI, Docker, AWS
-- **AI & knowledge workflows:** AI-assisted development, reusable agent skills, Obsidian, searchable knowledge bases
+🧬 Snakemake · Kallisto · Python
 
-## Connect
+**Inside:** sample layout, dry-run instructions, and workflow diagram.
 
-I welcome conversations about scientific data platforms, reproducible bioinformatics, and practical AI-assisted workflows across R&D.
+</td>
+<td width="50%" valign="top">
 
-[Connect on LinkedIn](https://www.linkedin.com/in/biomystery/)
+### 🔬 <a href="https://github.com/biomystery/atacCNV">atacCNV</a>
+
+Call **copy-number variation from ATAC-seq**, from coverage processing to CNV regions and segment plots.
+
+📊 R · Shell · Genomics
+
+**Inside:** documented read filtering, coverage smoothing, and CNV workflow.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏢 Science & Data @ Sonoma Biotherapeutics
+
+As **Director of Data Science**, I work across scientific and operational questions in **CAR-Treg cell therapy**.
+
+| Focus | What I contribute |
+|---|---|
+| 🔗 Data integration | Bring data across functions into a manufacturing data portal to support investigation and analysis |
+| 🧬 Multi-omics | Develop workflows that connect biological measurements with interpretable outputs |
+| 🔎 Scientific analysis | Contribute to efficacy-related and biomarker analyses with scientific colleagues |
+
+---
+
+## 🏛️ Scientific Roots
+
+- **Illumina** — Led a team developing NGS analysis applications.
+- **Bing Ren Lab · UC San Diego (2017–2020)** — Contributed to NGS infrastructure and analysis workflows for epigenomics and gene regulation. Explore the lab's public work at [epigen-UCSD](https://github.com/epigen-UCSD).
+- **25+ peer-reviewed publications**, alongside presentations on cell therapy and multi-omics.
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Genomics & Scientific Computing**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-3EAA4A?style=flat&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat&logo=snakemake&logoColor=white)
+
+**Data Platforms & Web**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
+
+**AI & Knowledge Workflows**  
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent_Skills-5B51D8?style=flat)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=flat&logo=materialformkdocs&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biomystery&show_icons=true&theme=vue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biomystery&layout=compact&theme=vue&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Open to conversations about **scientific data platforms**, **reproducible bioinformatics**, and **practical AI workflows across R&D**.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biomystery/)
+
+</div>
