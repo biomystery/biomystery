@@ -34,6 +34,17 @@ I'm a computational biologist and data science leader with **15+ years** spannin
 <tr>
 <td width="50%" valign="top">
 
+### 🧠 <a href="https://github.com/biomystery/okf-llm-wiki-kg-starter">LLM Wiki + KG Starter</a>
+
+Build an **LLM-maintained knowledge base** in Obsidian, with linked notes, source provenance, and review status.
+
+🔗 Obsidian · Open Knowledge Format · Python
+
+**Inside:** example pages, an ingest/query/lint skill, and a deterministic linter. Publish with wiki-hosting-project.
+
+</td>
+<td width="50%" valign="top">
+
 ### 📚 <a href="https://github.com/biomystery/wiki-hosting-project">wiki-hosting-project</a>
 
 Turn an Obsidian vault into a **searchable static website**, with wikilinks, aliases, and backlinks.
@@ -43,6 +54,8 @@ Turn an Obsidian vault into a **searchable static website**, with wikilinks, ali
 **Inside:** sample vault, Docker quickstart, and link-resolver tests.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 <a href="https://github.com/biomystery/claude-skills">claude-skills</a>
@@ -52,19 +65,6 @@ Reusable agent skills for **data documentation, document conversion, and knowled
 🧠 Agent workflows · Markdown · Obsidian
 
 **Start here:** <a href="https://github.com/biomystery/claude-skills/tree/main/data-dictionary">data-dictionary</a> — Prisma + SQLite → Markdown documentation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 <a href="https://github.com/biomystery/RNA-seq-snakemake-pipeline">RNA-seq-snakemake-pipeline</a>
-
-A **minimal RNA-seq workflow** with sample configuration from FASTQ directories.
-
-🧬 Snakemake · Kallisto · Python
-
-**Inside:** sample layout, dry-run instructions, and workflow diagram.
 
 </td>
 <td width="50%" valign="top">
